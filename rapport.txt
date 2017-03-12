@@ -1,0 +1,19 @@
+Ce document fait office de "rapport" où je reporte le cheminement parcouru à travers les différentes étapes du projet.
+
+
+- Dans un premier temps, puisqu'il est question de parler d'appareils connectés, et de leurs vulnérabilités possibles, j'ai pensé à un cas d'appareils corrompus, et le plus important connu à ce jour est Mirai.
+J'ai donc cherché parmi les marques d'appareils impliqués dans cette attaque, et suis tombé sur Sierra Wireless.
+Outre le support officiel, les informations trouvées révèlent une autre façon de mettre à jour le firmware d'un appareil, et le lien de l'exécutable est présent sur la page, mais peut-on vraiment avoir totalement confiance en cette source qui ne semble pas être officielle ?
+
+- J'ai ensuite entendu parler d'un cas qui est passé aux informations télévisées, et a été l'objet de nombreux articles de journaux à travers l'Europe : un jouet connecté avec lequel un enfant peut interagir, discuter, etc.
+Ce jouet est une poupée possédant des micros et une caméra pour réagir aux paroles et gestes d'un enfant, ainsi qu'un micro pour lui répondre. La connection à la poupée n'est cependant pas du tout sécurisée, et quelques personnes ont réussi à exploiter cette vulnérabilité pour communiquer directement avec des enfants. C'est la porte ouverte pour des potentiels pédophiles ou harceleurs de pouvoir espionner et même discuter avec des enfants.
+A ce jour elle a été interdite à la vente en Allemagne, mais toujours pas en France.
+Les documents expliquent la marche à suivre pour se connecter, et l'on voit rapidement que l'accès est ouvert.
+
+- Tant qu'on est dans tout ce qui se rapporte aux enfants, j'ai pensé aux babyphones, ces appareils qui permettent maintenant de voir et d'entendre son enfant dans sa chambre, depuis son smartphone même lorsqu'on ne se trouve pas à la maison.
+L'étude de cas se penche sur quelques modèles que les auteurs considèrent comme présentant une faille de sécurité.
+
+- Concernant les quelques plus grands providers en terme d'IoT :
+http://www.networkworld.com/article/2287045/wi-fi/wireless-153629-10-most-powerful-internet-of-things-companies.html#slide2
+Recherche d'informations individuellement pour chacun, notamment sur les politiques de mise à jour des appareils, l'installation, etc.
+
