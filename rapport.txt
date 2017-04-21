@@ -17,3 +17,12 @@ L'étude de cas se penche sur quelques modèles que les auteurs considèrent com
 http://www.networkworld.com/article/2287045/wi-fi/wireless-153629-10-most-powerful-internet-of-things-companies.html#slide2
 Recherche d'informations individuellement pour chacun, notamment sur les politiques de mise à jour des appareils, l'installation, etc.
 
+Sur les grandes marques restantes, il semble donc intéressant de se focaliser sur tous ces produits qui envahissent petit à petit notre quotidien et qui sont très largement proposés par une majorité de grands groupes qui produisent nos smartphones. En effet nous retrouvons de plus en plus d'offres pour les derniers nés des smartphones auxquels sont associés les nouveaux appareils connectés qui vont peut-être bientôt remplacer nos anciennes montres : les smartwatch.
+Ces appareils qui peuvent transmettre à notre smartphone de nombreuses informations de notre quotidien connaissent jusqu'à notre rythme cardiaque, notre position, nos habitudes, et ce en temps réel. Les informations communiquées, le sont-elles de façon sécurisée ? C'est la question à laquelle nous voulons répondre.
+
+- Comme il était question précédemment de commmunication concernant des informations de santé, je souhaitais rapidement faire une parenthèse sur des appareils utilisés depuis quelques années maintenant, qui peuvent se classer dans une catégorie un peu à part des objets connectés, mais dont il est pourtant possible d'observer de mode de fonctionnement : le pacemaker.
+
+- Intéressons-nous à présent aux maisons connectées. Il n'est pas rare de voir des maisons commandées entièrement par un ensemble d'équipements numériques, des thermostats gérant la température, à la fermeture des volets, en passant par le verrouillage des portes. Il est relativement courant de voir ce genre de système mené à mal dans l'un ou l'autre film ou série, dont la dernière apparition qui me vient à l'esprit est une scène où aussi bien le son des hauts parleurs que la température des pièces ou les systèmes d'éclairage sont commandés par des individus malveillants, qui en profitent pour tout dérégler dans l'objectif de semer le chaos pour faire partir les locataires de chez eux (2ème saison de Mr Robot).
+Qu'en est-il donc vraiment dans la réalité, ces systèmes sont-ils sûrs ?
+
+
