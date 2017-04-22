@@ -41,10 +41,21 @@ Un article fait référence de nombreux problèmes de sécurité sur ce modèle 
 www.bankinfosecurity.com/apple-watch-x-security-questions-a-7997
 Il reste à espérer que depuis sa parution, ces problèmes aient pu être réglés.
 
+De façon plus générale, de nombreuses sources s'accordent à dire que les smartwatch présentent de nombreuses potentielles vulnérabilités de par le fait du transfert de nombreuses informations personnelles vers et depuis le smartphone auquel elles sont habituellement associées :
+	- présentation globale de quelques exemples de vulnérabilité avec leurs explications : https://www.linkedin.com/pulse/smartwatch-security-flaws-how-secure-your-patric-mutabazi
+	- la portée possible de ces vulnérabilités au niveau du réseau de l'entreprise du propriétairede la montre : https://smallbiztrends.com/2016/02/wearable-technology-security-issues.html
+	- un dernier article reprenant quelques-unes des informations présentées dans les deux précédents, avec en plus un exemple d'exploitation des vulnérabilités dans le milieu d'habitation du propriétaire : http://tech.co/smartwatch-vulnerable-security-threats-2016-08
+Ceci vaut apparemment pour tous les modèles.
+
 
 - Parenthèse sur d'autres objets commandés à distance
 
 Comme il était question précédemment de commmunication concernant des informations de santé, je souhaitais rapidement faire une parenthèse sur des appareils utilisés depuis quelques années maintenant, qui peuvent se classer dans une catégorie un peu à part des objets connectés, mais dont il est pourtant possible d'observer de mode de fonctionnement : le pacemaker.
+
+Certaines source ne se montrent guère optimistes :
+https://www.engadget.com/2017/04/21/pacemaker-security-is-terrifying/
+D'autres présentent la marche à suivre pour au contraire garantir la sécurité de ce type d'appareil : https://www.engadget.com/2017/04/21/pacemaker-security-is-terrifying/ en se basant notamment sur une étude concernant la sécurité tout au long du cycle de vie des appareils (qu'il est possible de retrouver dans le dossier "Medical Devices")
+
 
 - Les Smart Home
 
