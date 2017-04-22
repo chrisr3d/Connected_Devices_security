@@ -10,14 +10,15 @@ Ce jouet est une poupée possédant des micros et une caméra pour réagir aux p
 A ce jour elle a été interdite à la vente en Allemagne, mais toujours pas en France.
 Les documents expliquent la marche à suivre pour se connecter, et l'on voit rapidement que l'accès est ouvert.
 
-- Tant qu'on est dans tout ce qui se rapporte aux enfants, j'ai pensé aux babyphones, ces appareils qui permettent maintenant de voir et d'entendre son enfant dans sa chambre, depuis son smartphone même lorsqu'on ne se trouve pas à la maison.
+- Tout en restant dans tout ce qui se rapporte aux enfants, j'ai pensé aux babyphones, ces appareils qui permettent maintenant de voir et d'entendre son enfant dans sa chambre, depuis son smartphone même lorsqu'on ne se trouve pas à la maison.
 L'étude de cas se penche sur quelques modèles que les auteurs considèrent comme présentant une faille de sécurité.
 
-- Concernant les quelques plus grands providers en terme d'IoT :
-http://www.networkworld.com/article/2287045/wi-fi/wireless-153629-10-most-powerful-internet-of-things-companies.html#slide2
+- Intéressons nous à présent aux grands providers d'IoT :
 Recherche d'informations individuellement pour chacun, notamment sur les politiques de mise à jour des appareils, l'installation, etc.
+Le problème rencontré ici est défini par le fait que la majorité des articles consultés faisant leur liste des plus importants providers d'IoT incluent tous les services de cloud que peuvent offrir des compagnies telles que Amazon, IBM, Microsoft, ou Google.
 
-Sur les grandes marques restantes, il semble donc intéressant de se focaliser sur tous ces produits qui envahissent petit à petit notre quotidien et qui sont très largement proposés par une majorité de grands groupes qui produisent nos smartphones. En effet nous retrouvons de plus en plus d'offres pour les derniers nés des smartphones auxquels sont associés les nouveaux appareils connectés qui vont peut-être bientôt remplacer nos anciennes montres : les smartwatch.
+
+- Concernant quelques-uns des grands fabriquants d'équipements électroniques, il semble également intéressant de se focaliser sur tous ces produits qui envahissent petit à petit notre quotidien et qui sont très largement proposés par une majorité de grands groupes qui produisent nos smartphones. En effet nous retrouvons de plus en plus d'offres pour les derniers nés des smartphones auxquels sont associés les nouveaux appareils connectés qui vont peut-être bientôt remplacer nos anciennes montres : les smartwatch.
 Ces appareils qui peuvent transmettre à notre smartphone de nombreuses informations de notre quotidien connaissent jusqu'à notre rythme cardiaque, notre position, nos habitudes, et ce en temps réel. Les informations communiquées, le sont-elles de façon sécurisée ? C'est la question à laquelle nous voulons répondre.
 
 - Comme il était question précédemment de commmunication concernant des informations de santé, je souhaitais rapidement faire une parenthèse sur des appareils utilisés depuis quelques années maintenant, qui peuvent se classer dans une catégorie un peu à part des objets connectés, mais dont il est pourtant possible d'observer de mode de fonctionnement : le pacemaker.
