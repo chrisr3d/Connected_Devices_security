@@ -18,3 +18,10 @@ Other possible security issues (connection weaknesses, sniffing, etc.) :
 - Apple Watch (www.bankinfosecurity.com/apple-watch-x-security-questions-a-7997)
 - Many smartwatches in general (https://www.linkedin.com/pulse/smartwatch-security-flaws-how-secure-your-patric-mutabazi / https://smallbiztrends.com/2016/02/wearable-technology-security-issues.html / http://tech.co/smartwatch-vulnerable-security-threats-2016-08)
 - Some medical devices
+
+
+Security concerns to consider on a smart home :
+http://www.makeuseof.com/tag/5-security-concerns-consider-creating-smart-home/
+And some recommandations :
+https://securityintelligence.com/smart-homes-need-smart-security/
+

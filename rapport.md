@@ -29,6 +29,7 @@ Le problème rencontré ici est défini par le fait que la majorité des article
 
 Google produit des équipements pour monitorer certaines information de votre maison. L'un de ceux-là est un thermostat : Nest. Le lien suivant présente une méthode trouvée par des chercheurs pour compromettre le thermostat :
 https://www.scmagazineuk.com/google-nest-hacked-in-15-seconds-as-reality-bites-for-internet-of-things/article/541215/
+Cet exemple détaillé ici n'est pas le seul concernant les maisons connectées, nous verrons ce sujet plus loin et reviendrons sur quelques uns des grands fabricants d'IoT invesstissant aujourd'hui dans le marché des objets connectés.
 
 
 - Les fabriquants des derniers produits high-tech grand public
@@ -62,4 +63,11 @@ D'autres présentent la marche à suivre pour au contraire garantir la sécurit�
 Intéressons-nous à présent aux maisons connectées. Il n'est pas rare de voir des maisons commandées entièrement par un ensemble d'équipements numériques, des thermostats gérant la température, à la fermeture des volets, en passant par le verrouillage des portes. Il est relativement courant de voir ce genre de système mené à mal dans l'un ou l'autre film ou série, dont la dernière apparition qui me vient à l'esprit est une scène où aussi bien le son des hauts parleurs que la température des pièces ou les systèmes d'éclairage sont commandés par des individus malveillants, qui en profitent pour tout dérégler dans l'objectif de semer le chaos pour faire partir les locataires de chez eux (2ème saison de Mr Robot).
 Qu'en est-il donc vraiment dans la réalité, ces systèmes sont-ils sûrs ?
 
+Parmis quelques-uns des fabriquants déjà cités précédemment, de nombreux étendent leurs activités dans les solutions de smarthome. Un premier article présente donc dans quelle mesure ces appareils peuvent présenter des vulnerabilités :
+https://www.cnet.com/news/how-hackable-are-your-smart-home-gadgets/
+Cependant les forces et avantages de chacun d'eux, garantissant tout de même un certain niveau de sécurité, est également décrite.
 
+Pour mettre en oeuvre la sécurité de ce type d'installation, l'article suivant explique quelques points sensibles auxquels il faut prêter particulièrement attention :
+http://www.makeuseof.com/tag/5-security-concerns-consider-creating-smart-home/
+Enfin, retrouvons quelques recommandations à ce sujet :
+https://securityintelligence.com/smart-homes-need-smart-security/
