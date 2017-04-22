@@ -71,3 +71,7 @@ Pour mettre en oeuvre la sécurité de ce type d'installation, l'article suivant
 http://www.makeuseof.com/tag/5-security-concerns-consider-creating-smart-home/
 Enfin, retrouvons quelques recommandations à ce sujet :
 https://securityintelligence.com/smart-homes-need-smart-security/
+
+
+
+Pour conclure, je pense avoir cherché dans des domaines divers et variés de l'IoT pour voir dans quelle mesure les fabricants mettent en oeuvre des solutions pour sécuriser les appareils que nous sommes amenés à utiliser de plus en plus dans la vie de tous les jours. J'ai tenté de couvrir un maximum de types d'appareils, et parcouru de nombreuses marques. Fort heureusement, par manque de résultats trouvés concernants certains modèles, nous pouvons supposer que ceux-ci ne présentent pas de vulnerabilité particulière, pour d'autres par contre, des informations fuitent assez rapidement et nous pouvons les retrouver dans différentes sources, ce aui nous permet de construire ici une liste de quelques exemples qui peut être étoffée à l'infini en fonction des prochaines trouvailles possibles.

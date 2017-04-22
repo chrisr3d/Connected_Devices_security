@@ -1,4 +1,4 @@
-# Connected_Devices_security
+# Connected Devices Security #
 
 This repository will try to reference different types of update, connection, or communication policies for different connected devices providers.
 
