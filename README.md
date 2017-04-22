@@ -2,7 +2,7 @@
 
 This repository will try to reference different types of update, connection, or communication policies for different connected devices providers.
 
-# Work still in progress #
+# Non exhaustive list of vulnerabilities examples #
 
 Possible weakness concerning the update policy : 
 - Sierra Wireless
